@@ -1,0 +1,28 @@
+name: RED SALON INSPIRATION
+favicon: null
+layout_spectrum: 0.18630174570716918
+typography_spectrum: 0.4293376677669585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3186889230273664
+  lightness: 0.35586744151078165
+  saturation: 0.818745152791962
+  rhythmicContrast: 0.9506783306133002
+purpose: []
